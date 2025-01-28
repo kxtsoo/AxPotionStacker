@@ -1,0 +1,4 @@
+name: AxPotionStacker
+version: '1.0.0'
+main: hu.kxtsoo.potionstacker.AxPotionStacker
+api-version: '1.20'
